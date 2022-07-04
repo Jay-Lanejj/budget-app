@@ -1,0 +1,35 @@
+input{
+    width: 500px;
+    height: 30px;
+    background-color: white;
+    border: none;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-family: serif;
+}
+
+select{
+    width: 515px;
+    height: 30px;
+    background-color: white;
+    border: none;
+    padding-left: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    font-family: serif;
+    color: rgb(80, 75, 75);
+}
+
+#btn{
+    color: black;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 30px;
+    width: 400px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-family: serif;
+    background-color: rgb(142, 142, 226);
+
+}
